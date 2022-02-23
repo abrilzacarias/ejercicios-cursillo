@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital@1&display=swap');
+
+* {
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+
+body {
+    background-color: navy;
+}
+
+p {
+    padding-top: 30px;
+}
+
+.formulario {
+    background-color: white;
+    width: 400px;
+    height: 300px;
+    margin: auto;
+    align-items: center;
+}
+
+.inputs {
+    margin-bottom: 15px;
+}
